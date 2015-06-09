@@ -1,14 +1,10 @@
-# ShipThis
+# ShipThisApp
 
 A project for enterpreneurs and developers to collaborate and discover projects worth building. Powered by [Meteor](http://meteor.com) and [Telescope](http://telescopeapp.org).
 
 ### Getting Started:
 
-Install [Meteor](http://meteor.com), clone this repository locally, and then run the app with:
-
-```
-meteor
-```
+Install [Meteor](http://meteor.com), clone this repository locally, and then run the app with `meteor`, and connect to it via `http://localhost:3000` in your browser.
 
 ### Optionally Deploy:
 
